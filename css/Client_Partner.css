@@ -1,0 +1,35 @@
+#fb-icon{
+    width: 10px;
+    height: 10px;
+    outline: none;
+    border: none;
+}
+.nav-link{
+    color: black;
+    font-size: 15px !important;
+}
+.nav-link:hover{
+    color: #8DC63F !important;
+}
+img{
+    height: 40px;
+    width: 200px;
+    margin: 10px;
+}
+.dropdown:hover .dropdown-menu{
+    display: block;
+    border-radius: 0px;
+    /* margin-top: 10px; */
+    border-top: 2px solid #8DC63F;
+    color: #8DC63F !important;
+}
+.dropdown .dropdown-menu .dropdown-item:hover {   
+    color: #8DC63F !important;
+}
+
+@media only screen and (min-width="1200px"){
+.dropdown:hover .dropdown-menu{
+    display: block;
+    border-radius: 0px;
+    color: #8DC63F;
+}
