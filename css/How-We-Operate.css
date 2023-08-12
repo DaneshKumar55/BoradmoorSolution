@@ -1,0 +1,39 @@
+
+
+.baner{
+    height: 197px;
+    background-color: #33333b;
+    color: white;
+}
+.baner>h2{
+    margin-top: 70px;
+    font-weight: bold;
+}
+
+
+
+.homeLine{
+    background-color: #eaeaea;
+    color: #a38c98;
+}
+.homeLine>div>div>a{
+    text-decoration: none; 
+    color: #a38c98;
+
+}
+.homeLine>div>div>a:hover{
+    color: #8fd32f;
+}
+.homeLine>div>div>img{
+    width: 13px;
+    height: 13px;
+}
+
+.homeLine>div>div>span{
+font-size: 12px;
+font-weight: 600;
+}
+.homeLine>div>div>a>img{
+    width: 13px;
+    height: 13px;
+}
