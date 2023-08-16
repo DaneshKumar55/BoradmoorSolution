@@ -1,27 +1,44 @@
-
+*{
+    font-family: sans-serif;
+}
 .baner{
-    background-color: #33333b;
-    color: white;
     height: 197px;
+    color: white; 
+    background-image: url(../images/baner.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .baner>h2{
     margin-top: 60px;
     font-weight: bold;
 }
+
+
 .homeLine{
     background-color: #eaeaea;
+    color: #a38c98;
 }
 .homeLine>div>div>a{
     text-decoration: none; 
-    color: black;
+    color: #a38c98;
+    font-size: 12px;
+    font-weight: 600;
 }
 .homeLine>div>div>a:hover{
-    color: green;
+    color: black;
 }
 .homeLine>div>div>a>img{
-    width: 10px;
-    height: 10px;
+    width: 13px;
+    height: 13px;
+}
+.homeLine>div>div>img{
+    width: 12px;
+    height: 12px;
+}
+.homeLine>div>div>span{
+    font-size: 12px;
+    font-weight: 600;
 }
 .paragraph{
-    margin-top: 100px;
+    color: #a38c98;
 }

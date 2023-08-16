@@ -1,18 +1,8 @@
+*{
+    font-family: sans-serif;
+}
 
-.homeLine{
-    background-color: #eaeaea;
-}
-.homeLine>div>div>a{
-    text-decoration: none; 
-    color: black;
-}
-.homeLine>div>div>a:hover{
-    color: #648e29;
-}
-.homeLine>div>div>a>img{
-    width: 13px;
-    height: 13px;
-}
+
 .baner{
     height: 197px;
     background-color: #33333b;
@@ -22,27 +12,30 @@
     margin-top: 70px;
     font-weight: bold;
 }
+
 .homeLine{
     background-color: #eaeaea;
     color: #a38c98;
-
 }
 .homeLine>div>div>a{
     text-decoration: none; 
     color: #a38c98;
-
+    font-size: 12px;
+    font-weight: 600;
 }
 .homeLine>div>div>a:hover{
-    color: #648e29;
+    color: black;
 }
+
 .homeLine>div>div>img{
     width: 13px;
     height: 13px;
 }
-.homeLine>div>a>img{
+.homeLine>div>div>a>img{
     width: 13px;
     height: 13px;
 }
+
 .homeLine>div>div>span{
 font-size: 12px;
 font-weight: 600;
@@ -50,12 +43,11 @@ font-weight: 600;
 
 
 
-
-
-
-
 .Dedication-main-line{
     color: gray;
+}
+.Dedication-main-line-header>div>img{
+width: 100%;
 }
 .Dedication-main-line>ul>li>h4{
     font-weight: 700;

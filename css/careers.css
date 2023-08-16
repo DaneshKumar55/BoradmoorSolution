@@ -1,0 +1,90 @@
+*{
+    font-family: sans-serif;
+}
+
+.baner{
+    height: 197px;
+    color: white; 
+    background-image: url(../images/baner.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.baner>h2{
+    margin-top: 70px;
+    font-weight: bold;
+}
+.homeLine{
+    background-color: #eaeaea;
+    color: #a38c98;
+}
+.homeLine>div>div>a{
+    text-decoration: none; 
+    color: #a38c98;
+    font-size: 12px;
+    font-weight: 600;
+}
+.homeLine>div>div>a:hover{
+    color: black;
+}
+.homeLine>div>div>img{
+    width: 11px;
+    height: 11px;
+}
+.homeLine>div>div>a>img{
+    width: 13px;
+    height: 13px;
+}
+.homeLine>div>div>span{
+font-size: 12px;
+font-weight: 600;
+}
+
+/* body section statrt */
+.view{
+    display: flex;
+    justify-content: start;
+}
+.view>div{
+    /* width: 205px; */
+    height: 50px;
+    display: flex;
+    align-items: center;
+    background-color: #eaeaea;
+    
+}
+.view>div>a{
+    margin-left: 20px;
+    text-decoration: none;
+    color: #a38c98;
+}
+
+            /* Baner Image */
+.baner-image{
+    background-image: url(../images/careers.8af523a9.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+        /* baner text */
+
+.baner-text{
+    font-weight: 300;
+    font-size: 14px;
+    color: #a38c98;
+}
+.baner-text>span{
+    font-weight: bold;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #252634;
+}
+.baner-text-2{
+    font-weight: 300;
+    font-size: 14px;
+    color: #a38c98;
+}
+.baner-text-3{
+    font-size: 24px;
+    color: #252634;
+}

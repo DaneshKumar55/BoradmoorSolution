@@ -1,12 +1,12 @@
 *{
     font-family: sans-serif;
+    
 }
 
 
 .uper-line>a>button>img{
     width: 14px;
     height: 14px;
-   
 }
 
 button:hover{
@@ -56,7 +56,7 @@ img{
 .footer{
     color: white;
     background-color: #252634;
-    height: 60vh;
+    min-height: 60vh;
     font-size: 14px;
     border-top: 4px solid #8DC63F;
 }

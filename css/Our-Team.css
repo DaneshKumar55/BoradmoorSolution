@@ -1,0 +1,303 @@
+*{
+    font-family: sans-serif;
+}
+
+
+.baner{
+    height: 197px;
+    color: white; 
+    background-image: url(../images/baner.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.baner>h2{
+    margin-top: 70px;
+    font-weight: bold;
+}
+
+.homeLine{
+    background-color: #eaeaea;
+    color: #a38c98;
+}
+.homeLine>div>div>a{
+    text-decoration: none; 
+    color: #a38c98;
+    font-size: 12px;
+font-weight: 600;
+}
+.homeLine>div>div>a:hover{
+    color: black;
+}
+.homeLine>div>div>a>img{
+    width: 13px;
+    height: 13px;
+}
+.homeLine>div>div>img{
+    width: 12px;
+    height: 12px;
+}
+.homeLine>div>div>span{
+font-size: 12px;
+font-weight: 600;
+}
+
+
+   /* Principles Section Start */
+
+.principles-header-green-line{
+    height: 3px;
+    width: 70px;
+    background-color: #8DC63F;
+    margin-right: 20px;
+}
+.principles-header>h4{
+    font-weight: bold;
+   color: black;
+
+}
+
+/* Sandy-Gujarathi */
+.Sandy-Gujarathi-left>h1{
+    font-weight: 700px;
+    font-size: 21px;
+    color: #62646c;
+}
+.Sandy-Gujarathi>div>div{
+    width: 150px;
+    height: 125px;
+}
+
+.Sandy-Gujarathi>div>div>img{
+    width: 100%;
+    height: 125px;
+    border-radius: 100%;
+
+}
+
+/*  Naveed-Ashraf */
+.Naveed-Ashraf-left>h1{
+    font-weight: 700px;
+    font-size: 21px;
+    color: #62646c;
+}
+
+.Naveed-Ashraf>div>div{
+    width: 150px;
+    height: 125px;
+}
+
+.Naveed-Ashraf>div>div>img{
+    width: 100%;
+    height: 125px;
+    border-radius: 100%;
+}
+
+            /*  DW Architecture Start */
+
+.DW-Architecture-header-green-line{
+    width: 70px;
+    height: 3px;
+    background-color: #8DC63F;
+    margin-right: 20px;
+}
+.DW-Architecture-header>h4{
+    font-weight: bold;
+   color: black;
+
+}
+.Bharathi-Kalidindi-left>h1{
+    font-weight: 700px;
+    font-size: 21px;
+    color: #62646c;
+}
+.Bharathi-Kalidindi>div>div{
+    width: 150px;
+    height: 125px;
+}
+.Bharathi-Kalidindi>div>div>img{
+    width: 100%;
+    height: 125px;
+    border-radius: 100%;
+
+}
+
+/* Rakesh Burra */
+.Rakesh-Burra-left>h1{
+    font-weight: 700px;
+    font-size: 21px;
+    color: #62646c;
+}
+.Rakesh-Burra>div>div{
+    width: 150px;
+    height: 125px;
+}
+.Rakesh-Burra>div>div>img{
+    width: 100%;
+    height: 125px;
+    border-radius: 100%;
+
+}
+
+            /*  Project management Start */
+
+.Project-Management-header-green-line{
+    width: 70px;
+    height: 3px;
+    background-color: #8DC63F;
+    margin-right: 20px;
+}
+.Project-Management-header>h4{
+    font-weight: bold;
+   color: black;
+
+}
+
+ /* Veronica LaRocque */
+ .Veronica-LaRocque-left>h1{
+    font-weight: 700px;
+    font-size: 21px;
+    color: #62646c;
+}
+.Veronica-LaRocque>div>div{
+    width: 150px;
+    height: 125px;
+}
+.Veronica-LaRocque>div>div>img{
+    width: 100%;
+    height: 125px;
+    border-radius: 100%;
+
+}
+
+
+        /* Data Analytics Start */
+
+.Data-Analytics-header-green-line{
+    width: 70px;
+    height: 3px;
+    background-color: #8DC63F;
+    margin-right: 20px;
+}
+.Data-Analytics-header>h4{
+    font-weight: bold;
+   color: black;
+
+}
+
+ /* Krishna Ari  */
+ .Krishna-Ari-left>h1{
+    font-weight: 700px;
+    font-size: 21px;
+    color: #62646c;
+}
+.Krishna-Ari>div>div{
+    width: 150px;
+    height: 125px;
+}
+.Krishna-Ari>div>div>img{
+    width: 100%;
+    height: 125px;
+    border-radius: 100%;
+}
+ /* Mohammed Tahir  */
+ .Mohammed-Tahir-left>h1{
+    font-weight: 700px;
+    font-size: 21px;
+    color: #62646c;
+}
+.Mohammed-Tahir>div>div{
+    width: 150px;
+    height: 125px;
+}
+.Mohammed-Tahir>div>div>img{
+    width: 100%;
+    height: 125px;
+    border-radius: 100%;
+}
+    /* Business Process  Start*/
+    .Business-Process-header-green-line{
+        width: 70px;
+        height: 3px;
+        background-color: #8DC63F;
+        margin-right: 20px;
+   }
+   .Business-Process-header>h4{
+       font-weight: bold;
+      color: black;
+   
+   }
+   /* Jennifer Crosland  */
+   .Jennifer-Crosland-left>h1{
+       font-weight: 700px;
+       font-size: 21px;
+       color: #62646c;
+   }
+   .Jennifer-Crosland>div>div{
+    width: 150px;
+    height: 125px;
+   }
+   .Jennifer-Crosland>div>div>img{
+       width: 100%;
+       height: 125px;
+       border-radius: 100%;
+   }
+
+
+/* Business Development Start */
+.Business-Development-header-green-line{
+    width: 70px;
+    height: 3px;
+    background-color: #8DC63F;
+    margin-right: 20px;
+}
+.Business-Development-header>h4{
+   font-weight: bold;
+   color: black;
+
+}
+/* Erin Zeng   */
+.Erin-Zeng-left>h1{
+   font-weight: 700px;
+   font-size: 21px;
+   color: #62646c;
+}
+.Erin-Zeng>div>div{
+    width: 150px;
+    height: 125px;
+}
+.Erin-Zeng>div>div>img{
+   width: 100%;
+   height: 125px;
+   border-radius: 100%;
+}
+
+
+
+
+ /* Mobile and Web Development  Start*/
+
+ .Web-Mobile-Development-header-green-line{
+    width: 70px;
+    height: 3px;
+    background-color: #8DC63F;
+    margin-right: 20px;
+}
+.Web-Mobile-Development-header>h4{
+   font-weight: bold;
+   color: black;
+}
+/* Craig Thoma */
+.Craig-Thoma-left>h1{
+   font-weight: 700px;
+   font-size: 21px;
+   color: #62646c;
+}
+.Craig-Thoma>div>div{
+    width: 150px;
+    height: 125px;
+}
+.Craig-Thoma>div>div>img{
+   width: 100%;
+   height: 125px;
+   border-radius: 100%;
+}

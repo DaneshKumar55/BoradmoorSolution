@@ -1,8 +1,35 @@
-
+*{
+    font-family: sans-serif;
+}
 
 .baner{
     height: 197px;
 }
-.baner>h3{
+.baner>h1{
+    font-weight: 300;
+    font-size: 30px;
     margin-top: 60px;
+    margin-bottom: 25px;
 }
+.baner-green-line{
+    display: flex;
+ justify-content: center;
+ align-items: center; 
+}
+    /* Body Section Start */
+.baner-green-line>div{
+    width: 69px;
+    height: 2px;
+    background-color: #8DC63F;
+}
+
+.Section-2>div>p{
+    width: 486px;
+    font-weight: 300;
+    font-size: 14px;
+    text-align: center;
+    color: #8a8c98;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+        /* Inside Footer */

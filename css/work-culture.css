@@ -13,40 +13,39 @@
     margin-top: 70px;
     font-weight: bold;
 }
-
 .homeLine{
     background-color: #eaeaea;
     color: #a38c98;
-    
 }
 .homeLine>div>div>a{
     text-decoration: none; 
     color: #a38c98;
-    font-weight: 600;
-    font-size: 12px;
 }
 .homeLine>div>div>a:hover{
     color: black;
 }
+.homeLine>div>div>img{
+    width: 11px;
+    height: 11px;
+}
 .homeLine>div>div>a>img{
     width: 13px;
     height: 13px;
-}
-.homeLine>div>div>img{
-    width: 12px;
-    height: 12px;
 }
 .homeLine>div>div>span{
 font-size: 12px;
 font-weight: 600;
 }
 
-
-/* body */
-.focus-bold>p{
-    color: #a38c98;
+    /* body section statrt */
+.body-row{
+    color: #8a8c98;
+    font-weight: 300;
+    font-size: 14px;
 }
-.focus-bold>p>span{
-    font-weight: bold;
-    color: #252634;
+.body-row>div>h1{
+    font-weight:600;
+    font-size: 24px;
+    color: black;
+    color: #252436;
 }

@@ -1,38 +1,254 @@
+*{
+    font-family: sans-serif;
+}
 
 .baner{
-    background-color: #33333b;
-    color: white;
     height: 197px;
+    color: white; 
+    background-image: url(../images/baner.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .baner>h2{
     margin-top: 60px;
     font-weight: bold;
 }
+
 .homeLine{
     background-color: #eaeaea;
+    color: #a38c98;
 }
 .homeLine>div>div>a{
     text-decoration: none; 
+    color: #a38c98;
+    font-size: 12px;
+    font-weight: 600;
 }
 .homeLine>div>div>a:hover{
-    color: green;
+    color: black;
 }
 .homeLine>div>div>a>img{
     width: 10px;
     height: 10px;
 }
-.paragraph{
-    margin-top: 100px;
+.homeLine>div>div>span{
+    font-size: 12px;
+    font-weight: 600;
+}
+.our-expersise-green-line{
+ display: flex;
+ justify-content: center;
+ align-items: center; 
+}
+.our-expersise-green-line>div{
+    width: 70px;
+    height: 2px;
+    background-color: #8DC63F;
+}
+
+/* 1 */
+
+.data-ware-house{
+    background-image: url(../images/7\ \(2\).jpeg);
+    height: 260px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;   
+}
+.data-ware-house>h1{
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 50px 50px 0px 50px;
+}
+
+.data-ware-house>p{
+    color: #fff;
+    font-weight: 300px;
+    font-size: 14px;
+    text-transform:capitalize;
+    padding: 0px 50px ;
 }
 
 
+.business-inteligence{
+    background-image: url(../images/4.jpeg);
+    height: 260px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+}
+.business-inteligence>h1{
+    /* color: white; */
+    color: black;
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 50px 50px 0px 50px;
+}
+.business-inteligence>p{
+    /* color: #fff; */
+    color: black;
+    font-weight: 300px;
+    font-size: 14px;
+    text-transform:capitalize;
+    padding: 0px 50px ;
+}
 
 
-.line>div{
-    width: 100px;
-    height: 5px;
-    justify-content: center;
-    align-items: center;
-    background-color: green;
-    margin: 10px;
+.Data-science{
+    background-image: url(../images/data\ science.jpeg);
+    background-repeat: no-repeat;
+    height: 260px;
+    background-size: cover;
+    opacity: 0.8;   
+}
+.Data-science>h1{
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 50px 50px 0px 50px;
+}
+.Data-science>p{
+    color: #fff;
+    font-weight: 300px;
+    font-size: 14px;
+    text-transform:capitalize;
+    padding: 0px 50px ;
+}
+/* 2 */
+.Business-value{
+    background-image: url(../images/8.jpeg);
+    background-repeat: no-repeat;
+    height: 260px;
+    background-size: cover;
+    opacity: 0.8;
+}
+.Business-value>h1{
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 50px 50px 0px 50px;
+}
+.Business-value>p{
+    color: #fff;
+    font-weight: 300px;
+    font-size: 14px;
+    text-transform:capitalize;
+    padding: 0px 50px ;
+}
+
+
+.Develop-and-run{
+    background-image: url(../images/DEVELOP\ NAD\ RUN\ MODEL.jpeg);
+    background-repeat: no-repeat;
+    height: 260px;
+    background-size: cover;
+    opacity: 0.8;
+}
+.Develop-and-run>h1{
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 50px 50px 0px 50px;
+}
+.Develop-and-run>p{
+    color: #fff;
+    font-weight: 300px;
+    font-size: 14px;
+    text-transform:capitalize;
+    padding: 0px 50px ;
+}
+
+
+.Act-Measure{
+    background-image: url(../images/2.jpeg);
+    background-repeat: no-repeat;
+    height: 260px;
+    background-size: cover;
+    opacity: 0.8;
+}
+.Act-Measure>h1{
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 50px 50px 0px 50px;
+}
+.Act-Measure>p{
+    color: #fff;
+    font-weight: 300px;
+    font-size: 14px;
+    text-transform:capitalize;
+    padding: 0px 50px ;
+}
+
+/* 3 */
+.Stay-informed{
+    background-image: url(../images/stay\ informed.jpeg);
+    background-repeat: no-repeat;
+    height: 260px;
+    background-size: cover;
+    opacity: 0.8;
+}
+.Stay-informed>h1{
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 50px 50px 0px 50px;
+}
+.Stay-informed>p{
+    color: #fff;
+    font-weight: 300px;
+    font-size: 14px;
+    text-transform:capitalize;
+    padding: 0px 50px ;
+}
+
+.One-demand{
+    background-image: url(../images/5.jpeg);
+    background-repeat: no-repeat;
+    height: 260px;
+    background-size: cover;
+    opacity: 0.8;
+}
+.One-demand>h1{
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 50px 50px 0px 50px;
+}
+.One-demand>p{
+    color: #fff;
+    font-weight: 300px;
+    font-size: 14px;
+    text-transform:capitalize;
+    padding: 0px 50px ;
+}
+.improve-customer{
+    background-image: url(../images/improve\ customer.jpeg);
+    background-repeat: no-repeat;
+    height: 260px;
+    background-size: cover;
+    opacity: 0.8;   
+}
+.improve-customer>h1{
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 50px 50px 0px 50px;
+}
+.improve-customer>p{
+    color: #fff;
+    font-weight: 300px;
+    font-size: 14px;
+    text-transform:capitalize;
+    padding: 0px 50px ;
 }

@@ -4,8 +4,11 @@
 
 .baner{
     height: 197px;
-    background-color: #33333b;
-    color: white;
+    color: white; 
+    background-image: url(../images/baner.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
 .baner>h2{
     margin-top: 70px;
@@ -21,7 +24,7 @@
 
 }
 .homeLine>div>div>a:hover{
-    color: #8dc63f;
+    color: black;
 }
 .homeLine>div>div>img{
     width: 13px;
